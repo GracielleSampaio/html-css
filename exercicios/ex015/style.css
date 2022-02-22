@@ -1,0 +1,36 @@
+body {
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    box-sizing: content-box;
+    margin: 2% 17%;
+
+}
+h1{
+    color: rgb(2, 51, 51);
+    background-color: aliceblue;
+    border-radius: 30px;
+    width: 60%;
+    padding: 10px;
+}
+h2{
+    color: rgb(42, 63, 129);
+    margin-left: 50px;
+    background-color: rgba(240, 248, 255, 0.541);
+    border-radius: 30px;
+    width: 53%;
+    padding: 10px;
+
+}
+p{
+    text-align: justify;
+    color: rgb(32, 51, 68);
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+    background-color: rgba(137, 43, 226, 0.486);
+    padding: 10px;
+    border-radius: 20px;
+    font-weight: bold;
+}
